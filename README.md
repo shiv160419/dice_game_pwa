@@ -1,1 +1,2 @@
-# dice_game_pwa
+# dice-game-pwa
+Installable PWA for a simple Dice based game
